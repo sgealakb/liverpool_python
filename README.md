@@ -1,0 +1,1 @@
+This repo is for testing connectivity between local machine and GH. Just testing git commands. 
